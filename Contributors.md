@@ -682,6 +682,7 @@ yejashi
 - [Wondwosen Bizuneh Tsige](https://github.com/WondwosenTsige)
 - [Ahmed Ikram](https://github.com/ahmed-cmyk)
 - [Rabih ND](https://github.com/RabihND)
+- [Vikrant Kumar](https://github.com/vikrant-sudo)
 - [Aldair Huamani Cusi](https://github.com/Baku452)
 - [Asmita Gaire](https://github.com/asmitagaire00)
 - [Sangram Rath](https://github.com/sangramrath)
